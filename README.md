@@ -1,5 +1,5 @@
 ### 💻 Hi! I am Aitor Ventura and this is my GitHub. 
-#### Currently studying a Computer Science's Bachelors Degree, with future plans of studying a Master's and possibly a PhD. 
+#### Currently studying a Master's on Video Game Development! 
 - 🎮 Developing games is my passion!
 - 📧 Contact me on aitor.ventura00@gmail.com
 - 🧑 Check out my LinkedIn www.linkedin.com/in/aitor-ventura
